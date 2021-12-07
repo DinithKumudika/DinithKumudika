@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DinithKumudika
-- 👀 I’m interested in Web development & mobile app development
-- 🌱 I’m currently learning C, Java Script & React Native
+- 👀 I’m interested in Web development, mobile app development and game development
 - 📫 How to reach me E-mail-: dinithwalpitagama@gmail.com, Mobile -: 071-2223456
 
 <!---
