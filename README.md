@@ -1,5 +1,11 @@
 - <h1>👋 Hi, I’m DinithKumudika</h1>
-- <h2>👀 I’m interested in Web development, mobile app development and game development</h2>
+- <h2>🧑‍🎓I’m an undergraduate at University of Colombo School of Computing (BSc in Information Systems)</h2>
+- <h2> I’m interested in,/h2>
+  <ul style-type="none">
+    <li>📌Web Development</li>
+    <li>📌Mobile Application Development</li>
+    <li>📌Game Development</li>
+  </ul>
 - <h2>📫 How to reach me E-mail-: dinithwalpitagama@gmail.com</h2>
 
 <!---
