@@ -1,4 +1,4 @@
-- <img src="https://img.shields.io/github/followers/DinithKumudika?style=social"> 
+<img src="https://img.shields.io/github/followers/DinithKumudika?style=social"> 
 - <h1>👋 Hi, I’m DinithKumudika</h1>
 - <h2>🧑‍🎓I’m an undergraduate at University of Colombo School of Computing (BSc in Information Systems)</h2>
 - <h2> I’m interested in</h2>
