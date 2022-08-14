@@ -8,8 +8,8 @@
     <li>Game Development</li>
   </ul>
 <h2>📫 How to reach me,</h2>
-    <p>Email-:dinithwalpitagama@gmail.com</p>
-    <p><a href="https://www.linkedin.com/in/dinith-kumudika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>Dinith Kumudika<p>
+    <div><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee"></a><span>kumudikadinith@gmail.com</span></div>
+    <p><a href="https://www.linkedin.com/in/dinith-kumudika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&layout=compact&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api?username=DinithKumudika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
