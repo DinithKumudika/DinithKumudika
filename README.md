@@ -1,13 +1,13 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social"> 
-- <h1>👋 Hi, I’m DinithKumudika</h1>
-- <h2>🧑‍🎓I’m an undergraduate at University of Colombo School of Computing (BSc in Information Systems)</h2>
-- <h2> I’m interested in</h2>
+<h1>👋 Hi, I’m DinithKumudika</h1>
+<h2>🧑‍🎓I’m an undergraduate at University of Colombo School of Computing (BSc in Information Systems)</h2>
+<h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
     <li>Mobile Application Development</li>
     <li>Game Development</li>
   </ul>
-- <h2>📫 How to reach me,</h2>
+<h2>📫 How to reach me,</h2>
     <p>Email-:dinithwalpitagama@gmail.com</p>
     <p>LinkedIn-:https://www.linkedin.com/in/dinith-kumudika-605045213/<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&layout=compact&theme=dark">
