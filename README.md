@@ -11,6 +11,7 @@
  - ⚡ Some fun facts about me : <b>Cinephile</b>, a <b>DC geek</b>, <b>Anime Lover</b>
 <h2> Connect With me</h2>
 <p><a href="https://www.linkedin.com/in/dinith-kumudika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
+  <p><a href="https://twitter.com/DinithKumudika"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
   <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api?username=DinithKumudika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
