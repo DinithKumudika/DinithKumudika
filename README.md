@@ -8,7 +8,7 @@
     <li>Game Development</li>
   </ul>
  - 📫 How toReach me : dinithwalpitagama@gmail.com
- - ⚡ Some fun facts about me : **Cinephile**, a **DC geek**, **Anime Lover**
+ - ⚡ Some fun facts about me : <b>Cinephile</b>, a <b>DC geek</b>, <b>Anime Lover</b>
 <h2> Connect With me</h2>
 <p><a href="https://www.linkedin.com/in/dinith-kumudika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
   <h2>GitHub Stats</h2>
