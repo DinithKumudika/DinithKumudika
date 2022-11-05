@@ -7,7 +7,8 @@
     <li>Mobile Application Development</li>
     <li>Game Development</li>
   </ul>
- - 📫 How toReach me : dinithwalpitagama@gmail.com/
+ - 📫 How toReach me : dinithwalpitagama@gmail.com
+<br>
  - ⚡ Some fun facts about me : <b>Cinephile</b>, a <b>DC geek</b>, <b>Anime Lover</b>
 <h2> Connect With me</h2>
 <p><a href="https://www.linkedin.com/in/dinith-kumudika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
