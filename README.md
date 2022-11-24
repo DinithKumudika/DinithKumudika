@@ -17,6 +17,7 @@
   <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api?username=DinithKumudika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinithKumudika&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinithKumudika&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=DinithKumudika&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 <h3 align="left">🏆Trophies</h3>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DinithKumudika" alt="DinithKumudika" /></a></p>
 <br>
