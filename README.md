@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
-<img src="header.svg" width="800" height="200">
+<img src="header.svg" width="800" height="300">
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
