@@ -1,40 +1,10 @@
-<style>
-
-
-.animation div:first-child {
-  animation: text-animation 8s infinite;
-}
-
-.first div {
-  background-color:#20a7d8;
-}
-.second div {
-  background-color:#CD921E;
-}
-.third div {
-  background-color:#c10528;
-}
-
-@keyframes text-animation {
-  0% {margin-top: 0;}
-  10% {margin-top: 0;}
-  20% {margin-top: -5.62rem;}
-  30% {margin-top: -5.62rem;}
-  40% {margin-top: -11.24rem;}
-  60% {margin-top: -11.24rem;}
-  70% {margin-top: -5.62rem;}
-  80% {margin-top: -5.62rem;}
-  90% {margin-top: 0;}
-  100% {margin-top: 0;}
-}
-</style>
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
-<main class="container" style="color: #e5e5e5;font-size: 2.26rem;text-transform: uppercase;height: 100vh;display: flex;align-items: center;justify-content: center;">
-  <p style="text-shadow: 0 0 7px rgba(255,255,255,.3), 0 0 3px rgba(255,255,255,.3);">Hello 👋 I'm</p>
-  <section class="animation" style="height:50px;overflow:hidden;margin-left: 1rem;">
-    <div class="first"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.81rem;display:inline-block;">Dinith Kumudika</div></div>
-    <div class="second"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.81rem;display:inline-block;">Undergraduate | UCSC</div></div>
-    <div class="third"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.81rem;display:inline-block;">Web Developer</div></div>
+<main class="container">
+  <p>Hello 👋 I'm</p>
+  <section>
+    <div class="first"><div>Dinith Kumudika</div></div>
+    <div class="second"><div>Undergraduate | UCSC</div></div>
+    <div class="third"><div>Web Developer</div></div>
   </section>
 </main>
 <h2> I’m interested in</h2>
