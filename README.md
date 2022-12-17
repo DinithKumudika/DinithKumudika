@@ -1,12 +1,5 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
-<main class="container">
-  <p>Hello 👋 I'm</p>
-  <section>
-    <div class="first"><div>Dinith Kumudika</div></div>
-    <div class="second"><div>Undergraduate | UCSC</div></div>
-    <div class="third"><div>Web Developer</div></div>
-  </section>
-</main>
+<img src="header.svg" width="800" height="400">
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
