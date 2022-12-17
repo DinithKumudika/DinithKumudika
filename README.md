@@ -1,6 +1,70 @@
+<style>
+  body {
+  font-family:'Roboto';
+  background-color: #131417;  
+}
+p {
+  text-shadow: 0 0 7px rgba(255,255,255,.3), 0 0 3px rgba(255,255,255,.3);
+}
+.container {
+  color: #e5e5e5;
+  font-size: 2.26rem;
+  text-transform: uppercase;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.animation {
+  height:50px;
+  overflow:hidden;
+  margin-left: 1rem;
+}
+
+.animation > div > div {
+  padding: 0.25rem 0.75rem;
+  height:2.81rem;
+  margin-bottom: 2.81rem;
+  display:inline-block;
+}
+
+.animation div:first-child {
+  animation: text-animation 8s infinite;
+}
+
+.first div {
+  background-color:#20a7d8;
+}
+.second div {
+  background-color:#CD921E;
+}
+.third div {
+  background-color:#c10528;
+}
+
+@keyframes text-animation {
+  0% {margin-top: 0;}
+  10% {margin-top: 0;}
+  20% {margin-top: -5.62rem;}
+  30% {margin-top: -5.62rem;}
+  40% {margin-top: -11.24rem;}
+  60% {margin-top: -11.24rem;}
+  70% {margin-top: -5.62rem;}
+  80% {margin-top: -5.62rem;}
+  90% {margin-top: 0;}
+  100% {margin-top: 0;}
+}
+</style>
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
-<h1>👋 Hi, I’m DinithKumudika</h1>
-<h2>🧑‍🎓I’m an undergraduate at University of Colombo School of Computing (BSc in Information Systems)</h2>
+<main class="container">
+  <p>Hello 👋 I'm</p>
+  <section class="animation">
+    <div class="first"><div>Dinith Kumudika</div></div>
+    <div class="second"><div>Undergraduate | UCSC</div></div>
+    <div class="third"><div>Web Developer</div></div>
+  </section>
+</main>
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
