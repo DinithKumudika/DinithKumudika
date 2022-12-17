@@ -1,33 +1,5 @@
 <style>
-  body {
-  font-family:'Roboto';
-  background-color: #131417;  
-}
-p {
-  text-shadow: 0 0 7px rgba(255,255,255,.3), 0 0 3px rgba(255,255,255,.3);
-}
-.container {
-  color: #e5e5e5;
-  font-size: 2.26rem;
-  text-transform: uppercase;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
-.animation {
-  height:50px;
-  overflow:hidden;
-  margin-left: 1rem;
-}
-
-.animation > div > div {
-  padding: 0.25rem 0.75rem;
-  height:2.81rem;
-  margin-bottom: 2.81rem;
-  display:inline-block;
-}
 
 .animation div:first-child {
   animation: text-animation 8s infinite;
@@ -57,12 +29,12 @@ p {
 }
 </style>
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
-<main class="container">
-  <p>Hello 👋 I'm</p>
-  <section class="animation">
-    <div class="first"><div>Dinith Kumudika</div></div>
-    <div class="second"><div>Undergraduate | UCSC</div></div>
-    <div class="third"><div>Web Developer</div></div>
+<main class="container" style="color: #e5e5e5;font-size: 2.26rem;text-transform: uppercase;height: 100vh;display: flex;align-items: center;justify-content: center;">
+  <p style="text-shadow: 0 0 7px rgba(255,255,255,.3), 0 0 3px rgba(255,255,255,.3);">Hello 👋 I'm</p>
+  <section class="animation" style="height:50px;overflow:hidden;margin-left: 1rem;">
+    <div class="first"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.81rem;display:inline-block;">Dinith Kumudika</div></div>
+    <div class="second"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.81rem;display:inline-block;">Undergraduate | UCSC</div></div>
+    <div class="third"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.81rem;display:inline-block;">Web Developer</div></div>
   </section>
 </main>
 <h2> I’m interested in</h2>
