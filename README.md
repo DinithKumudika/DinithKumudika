@@ -6,6 +6,7 @@
     <li>Mobile Application Development</li>
     <li>Game Development</li>
   </ul>
+ <h2>Currently learning Rust and Flutter</h2>
  - 📫 How toReach me : dinithwalpitagama@gmail.com
 <br>
  - ⚡ Some fun facts about me : <b>Cinephile</b>, a <b>DC geek</b>, <b>Anime Lover</b>
