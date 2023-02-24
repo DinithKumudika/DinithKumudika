@@ -1,12 +1,13 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
 <img src="header.svg" width="800" height="350">
+
+<h2>I am Currently learning Rust with the intent of buliding performance first applications and Flutter</h2>
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
     <li>Mobile Application Development</li>
     <li>Game Development</li>
   </ul>
- <h2>Currently learning Rust and Flutter</h2>
  - 📫 How toReach me : dinithwalpitagama@gmail.com
 <br>
  - ⚡ Some fun facts about me : <b>Cinephile</b>, a <b>DC geek</b>, <b>Anime Lover</b>
