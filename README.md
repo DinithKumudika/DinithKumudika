@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
 <img src="header.svg" width="800" height="350">
 
-<h2>I am Currently learning Rust with the intent of buliding performance first applications and Flutter</h2>
+<h2>I am Currently learning React and Flutter</h2>
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
