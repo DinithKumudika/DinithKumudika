@@ -15,18 +15,18 @@
 <p><a href="https://www.linkedin.com/in/dinith-kumudika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
   <p><a href="https://twitter.com/DinithKumudika"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
     <p><a href="https://facebook.com/dinith.kumudika"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><p>
-  
 <h2>GitHub Stats</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinithKumudika&theme=aura_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinithKumudika&theme=dark">
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinithKumudika&theme=aura_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinithKumudika&theme=dark">
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinithKumudika&theme=aura_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinithKumudika&theme=dark">
   <span>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&theme=dark">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&theme=dark">
+    </div>
 <img src="https://github-readme-stats.vercel.app/api?username=DinithKumudika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 <h3 align="left">🏆Trophies</h3>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DinithKumudika" alt="DinithKumudika" /></a></p>
 <br>
