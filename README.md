@@ -24,7 +24,6 @@
   <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinithKumudika&theme=aura_dark">
   <span>
-</div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api?username=DinithKumudika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
