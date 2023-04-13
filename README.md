@@ -23,6 +23,7 @@
   <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinithKumudika&theme=dark">
   </span>
+  <div width="10px"></div>
   <div>
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithKumudika&theme=dark">
