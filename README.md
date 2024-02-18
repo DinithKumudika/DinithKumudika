@@ -6,7 +6,7 @@
   <ul style-type="none">
     <li>Web Development</li>
     <li>Mobile Application Development</li>
-    <li>Game Development</li>
+    <li>Generative AI</li>
   </ul>
  - 📫 How toReach me : dinithwalpitagama@gmail.com
 <br>
