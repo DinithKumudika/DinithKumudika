@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
 <img src="header.svg" width="800" height="350">
 
-<h2>I am Currently work as a Trainee Software Engineer</h2>
+<h2>I am Currently working as a Trainee Software Engineer</h2>
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
