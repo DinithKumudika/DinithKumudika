@@ -2,12 +2,12 @@
 
 <img src="header.svg" width="800" height="350">
 
-<h2>I am Currently working as a Trainee Software Engineer</h2>
+<h2>I am Currently working as a Software Engineer</h2>
 <h2> I’m interested in</h2>
   <ul style-type="none">
     <li>Web Development</li>
     <li>Mobile Application Development</li>
-    <li>Generative AI</li>
+    <li>AI/ML</li>
   </ul>
  - 📫 How toReach me : dinithwalpitagama@gmail.com
 <br>
