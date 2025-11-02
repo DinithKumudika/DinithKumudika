@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
+
 <img src="header.svg" width="800" height="350">
 
 <h2>I am Currently working as a Trainee Software Engineer</h2>
